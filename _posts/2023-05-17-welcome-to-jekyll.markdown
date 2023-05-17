@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to PWNC4M!"
 date:   2023-05-17 12:31:46 +0200
 categories: jekyll update
 ---
